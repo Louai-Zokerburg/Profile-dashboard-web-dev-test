@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: Nunito, sans-serif;
+}
+
+.section {
+    @apply relative top-[50px] left-0 lg:left-[200px] min-h-[calc(100vh-50px)] w-full lg:w-[calc(100%-200px)] p-6 flex flex-col justify-start items-start;
+}
