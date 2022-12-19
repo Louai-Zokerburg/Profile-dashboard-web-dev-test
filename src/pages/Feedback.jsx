@@ -1,9 +1,12 @@
 import React from 'react'
 
+import SectionTitle from '../components/SectionTitle';
+
+
 const Feedback = () => {
   return (
     <section className='section'>
-    <h1 className='text-white text-center'>Feedback</h1>
+    <SectionTitle title='Feedback' />
 </section>
   )
 }
