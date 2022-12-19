@@ -11,6 +11,9 @@ import Experience from './pages/Experience'
 import Earnings from './pages/Earnings'
 import Ratings from './pages/Ratings'
 import Skills from './pages/Skills'
+import Settings from './pages/Settings';
+import Faq from './pages/Faq';
+import Feedback from './pages/Feedback';
 
 const App = () => {
   const [theme, setTheme] = useState('dark');
@@ -91,7 +94,6 @@ const App = () => {
       />
 
       {/** Main Content */}
-
       <Routes>
         <Route exact path='/' element={<Overview/>} />
         <Route path='/portfolio' element={<Porfolio />} />
@@ -101,9 +103,9 @@ const App = () => {
         <Route path='/earnings' element={<Earnings />} />
         <Route path='/ratings' element={<Ratings />} />
         <Route path='/skills' element={<Skills />} />
-        {/* <Route path='/settings' element={<Overview />} />
-        <Route path='/faq' element={<Overview />} />
-        <Route path='/feedback' element={<Overview />} /> */}
+        <Route path='/settings' element={<Settings />} />
+        <Route path='/faq' element={<Faq />} />
+        <Route path='/feedback' element={<Feedback />} />
       </Routes>
       </Router>
     </main>

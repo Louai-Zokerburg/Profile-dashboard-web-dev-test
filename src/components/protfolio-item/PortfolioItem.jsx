@@ -3,13 +3,25 @@ import link_icon from '../../assets/link.svg';
 import start_icon from '../../assets/start.svg';
 import { motion } from 'framer-motion';
 
-const PortfolioItem = ({ image, title, desc, techUsed, rating, delay }) => {
+const PortfolioItem = ({ image, title, desc, techUsed, rating }) => {
+  const child = {
+    from: {
+      y: 100,
+      opacity: 0,
+    },
+    to: {
+      y: 0,
+      opacity: 1,
+      transition: {
+        duration: 0.3,
+      },
+    },
+  };
   return (
     <motion.div
-      initial={{ y: 100, opacity: 0 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: delay / 50, duration: 0.5 }}
-      className='bg-light-bg p-3 flex flex-col justify-start items-start dark:bg-dark-bg rounded-lg shadow-my-shadow'
+      variants={child}
+      whileHover={{scale: 1.03}}
+      className='bg-light-bg p-3 flex flex-col justify-start items-start dark:bg-dark-bg rounded-lg shadow-my-shadow cursor-pointer'
     >
       <img src={image} alt='project thumpnail' className='rounded-md' />
       <h3 className='text-light-text mt-2 text-lg font-semibold dark:text-dark-text'>

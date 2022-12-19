@@ -148,6 +148,96 @@ export const portfolioData = [
     ],
     rating: 4.5
   },
+  {
+    img: project_img_5,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_6,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_5,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_6,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_5,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_6,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_5,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_6,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_5,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
+  {
+    img: project_img_6,
+    projectName: 'Finaial App',
+    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    technologiesUsed: [
+      'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
+    ],
+    rating: 4.5
+  },
 ]
 
 export const clientsData = [

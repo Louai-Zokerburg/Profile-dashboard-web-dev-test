@@ -15,17 +15,17 @@ import {
 } from 'recharts';
 
 const data = [
-  { name: '2012', revnue: 40, value: '40K' },
-  { name: '2013', revnue: 45, value: '45K' },
-  { name: '2014', revnue: 45, value: '44K' },
-  { name: '2015', revnue: 55, value: '55K' },
-  { name: '2016', revnue: 65, value: '65K' },
-  { name: '2017', revnue: 70, value: '70K' },
-  { name: '2018', revnue: 90, value: '90K' },
-  { name: '2019', revnue: 100, value: '100K' },
-  { name: '2020', revnue: 75, value: '75K' },
-  { name: '2021', revnue: 95, value: '90K' },
-  { name: '2022', revnue: 115, value: '115K' },
+  { name: '2012', revnue: 40, value: 55 },
+  { name: '2013', revnue: 45, value: 25 },
+  { name: '2014', revnue: 45, value: 66 },
+  { name: '2015', revnue: 55, value: 88 },
+  { name: '2016', revnue: 65, value: 60 },
+  { name: '2017', revnue: 70, value: 45 },
+  { name: '2018', revnue: 90, value: 35 },
+  { name: '2019', revnue: 100, value:  50 },
+  { name: '2020', revnue: 75, value: 88 },
+  { name: '2021', revnue: 95, value: 70 },
+  { name: '2022', revnue: 115, value:  99 },
 ];
 
 const Earnings = () => {
@@ -35,7 +35,19 @@ const Earnings = () => {
 
       <div className='w-full h-[calc(100vh-150px)] flex justify-center items-center rounded-lg shadow-my-shadow bg-light-bg dark:bg-dark-bg pt-4 pb-4 pr-4 md:pl-4'>
         <ResponsiveContainer width='90%' height={500}>
-          {/* <LineChart data={data}>
+          <LineChart data={data}>
+            <Line
+              type='monotone'
+              dataKey='revnue'
+              stroke='#5E95FF'
+              strokeWidth={2}
+            />
+            <Line
+              type='monotone'
+              dataKey='value'
+              stroke='#FFFF00'
+              strokeWidth={2}
+            />
             <Line
               type='monotone'
               dataKey='revnue'
@@ -46,9 +58,9 @@ const Earnings = () => {
             <XAxis dataKey='name' />
             <YAxis />
             <Tooltip />
-          </LineChart> */}
+          </LineChart>
 
-          <AreaChart data={data}>
+          {/* <AreaChart data={data}>
             <defs>
               <linearGradient id='colorUv' x1='0' y1='0' x2='0' y2='1'>
                 <stop offset='5%' stopColor='#8884d8' stopOpacity={0.8} />
@@ -70,7 +82,7 @@ const Earnings = () => {
               fillOpacity={1}
               fill='url(#colorPv)'
             />
-          </AreaChart>
+          </AreaChart> */}
         </ResponsiveContainer>
       </div>
     </section>

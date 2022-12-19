@@ -6,12 +6,25 @@ import instagram_icon from '../../assets/instagram_icon.svg';
 import twitter_icon from '../../assets/twitter_icon.svg';
 import { motion } from 'framer-motion';
 
-const ClientItem = ({ img, name, quote, duration }) => {
+const ClientItem = ({ img, name, quote }) => {
+  const child = {
+    from: {
+      y: 100,
+      opacity: 0,
+    },
+    to: {
+      y: 0,
+      opacity: 1,
+      transition: {
+        duration: 0.3,
+      },
+    },
+
+  };
   return (
     <motion.div
-      initial={{ y: 100, opacity: 0 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: duration / 50, duration: 0.5 }}
+      variants={child}
+      whileHover={{scale: 1.03}}
       className='bg-light-bg p-3 flex flex-col justify-start items-center dark:bg-dark-bg rounded-lg shadow-my-shadow'
     >
       <img src={img} alt='client image' className='rounded-full' />
