@@ -97,7 +97,7 @@ export const portfolioData = [
   {
     img: project_img_1,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -106,7 +106,7 @@ export const portfolioData = [
   {
     img: project_img_2,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -115,7 +115,7 @@ export const portfolioData = [
   {
     img: project_img_3,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -124,7 +124,7 @@ export const portfolioData = [
   {
     img: project_img_4,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -133,7 +133,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -142,7 +142,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -151,7 +151,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -160,7 +160,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -169,7 +169,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -178,7 +178,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -187,7 +187,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -196,7 +196,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -205,7 +205,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -214,7 +214,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -223,7 +223,7 @@ export const portfolioData = [
   {
     img: project_img_5,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -232,7 +232,7 @@ export const portfolioData = [
   {
     img: project_img_6,
     projectName: 'Finaial App',
-    description: 'louai is the best programmer on the earth louai love\'s bassmala so mutch',
+    description: 'Originally from Latin, Lorem ipsum has no intelligible meaning. It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
     technologiesUsed: [
       'Flutter', 'Mobile Development', 'Node Js', 'Dart', 'Android', 'IOS'
     ],
@@ -244,46 +244,61 @@ export const clientsData = [
   {
     img: client_1,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_2,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_3,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_4,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_5,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_6,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_4,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_5,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
   {
     img: client_6,
     name: 'Brad Smith',
-    quote: 'louai is the best programmer on the earht and  he love\'s bassmala so so so fucking much.. I don\'nt know what to say else',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
+  },
+  {
+    img: client_4,
+    name: 'Brad Smith',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
+  },
+  {
+    img: client_5,
+    name: 'Brad Smith',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
+  },
+  {
+    img: client_6,
+    name: 'Brad Smith',
+    quote: 'It is simply a display of letters to be viewed as a sample with given graphical elements in a file. "Lipsum" (a portmanteau of lorem and ipsum) generators are commonly',
   },
 ]

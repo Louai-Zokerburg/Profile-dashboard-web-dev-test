@@ -30,6 +30,8 @@ const Icon = ({icon, selected}) => {
     if (icon === 'settings') return <FiSettings className={iconStyle} />
     if (icon === 'faq') return <AiOutlineQuestionCircle className={iconStyle} />
     if (icon === 'feedback') return <MdOutlineFeedback className={iconStyle} />
+
+
   
 }
 export default Icon
