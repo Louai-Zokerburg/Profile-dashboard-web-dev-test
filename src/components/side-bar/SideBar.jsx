@@ -12,7 +12,7 @@ const SideBar = ({
   theme,
   selectedPage,
   handleSelectedPageChange,
-  toggleMenu
+  toggleMenu,
 }) => {
   const position = isMenuOpen ? 'left-0' : 'left-[-220px]';
   return (
@@ -26,7 +26,7 @@ const SideBar = ({
           items={group.items}
           selectedPage={selectedPage}
           toggleMenu={toggleMenu}
-        handleSelectedPageChange={handleSelectedPageChange}
+          handleSelectedPageChange={handleSelectedPageChange}
         />
       ))}
 
